@@ -1,0 +1,393 @@
+@media (min-width: 1450px) and (max-width: 1680px) {
+    
+    .hero-text h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .header-menu ul li a {
+        font-size: 17px;
+    }
+    .header-menu ul li {
+        margin-left: 55px;
+    }
+    .single-portfolio {
+        margin: 10px 40px;
+    }
+    .contact-title h2 {
+        font-size: 45px;
+    }
+    figure img {
+        max-width: 700px !important;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1449px) {
+    
+    .hero-text h2 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .header-menu ul li a {
+        letter-spacing: .3px;
+        transition: .3s;
+        font-size: 16px;
+    }
+    .header-menu ul li {
+        display: inline;
+        margin-left: 55px;
+    }
+    .single-portfolio {
+        margin: 10px 20px;
+    }
+    .single-portfolio img {
+        width: 55px;
+    }
+    .contact-title h2 {
+        font-size: 45px;
+    }
+    figure img {
+        max-width: 650px !important;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+
+    .hero-text h2 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    .header-menu ul li a {
+        font-size: 16px;
+    }
+    .header-menu ul li {
+        margin-left: 60px;
+    }
+    .single-portfolio p {
+        font-size: 17px;
+        letter-spacing: 0;
+    }
+    .single-portfolio {
+        margin: 10px 30px;
+        height: 290px;
+    }
+    .single-portfolio h4 {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+    .portfolio-area {
+        height: auto;
+        padding-top: 0;
+        padding-bottom: 100px;
+    }
+    figure img {
+        max-width: 600px !important;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .hero-text h2 {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 40px;
+    }
+    .header-menu ul li a {
+        font-size: 16px;
+    }
+    .header-menu ul li {
+        margin-left: 32px;
+    }
+    .single-portfolio {
+        margin: 10px 0px;
+    }
+    .single-portfolio p {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .single-portfolio img {
+        width: 50px;
+        margin-bottom: 25px;
+    }
+    .single-portfolio h4 {
+        margin-bottom: 25px;
+    }
+    .single-portfolio {
+        height: 290px;
+    }
+    .hero-area {
+        height: 100vh;
+        padding-top: 170px;
+        padding-bottom: 100px;
+    }
+    .portfolio-area {
+        height: auto;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .contact-title h2 {
+        font-size: 40px;
+    }
+    .contact-title p {
+        font-size: 16px;
+    }
+    .hebida-text p {
+        font-size: 17px;
+        letter-spacing: 0;
+    }
+    figure img {
+        max-width: 550px !important;
+    }
+
+
+}
+ 
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .hero-text h2 {
+        font-size: 36px;
+        font-weight: 400;
+        line-height: 45px;
+    }
+    .hero-text {
+        padding: 40px 25px;
+        margin-right: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+    .header-menu ul li a {
+        font-size: 15px;
+    }
+    .header-menu ul li {
+        margin-left: 30px;
+    }
+    .header-menu li:first-child {
+        margin: 0;
+    }
+    .hebida-text p {
+        font-size: 16px;
+    }
+    .habilidadies-area {
+        height: auto;
+        padding-top: 150px;
+        padding-bottom: 250px;
+    }
+    .contact-area {
+        height: auto;
+        padding-top: 100px;
+    }
+    .contact-title h2 {
+        color: #0d5c75;
+        font-size: 32px;
+    }
+    .contact-title p {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .contact-title p br {
+       display: none
+    }
+    .gellary-title h2 {
+        font-size: 36px;
+    }
+    .gellary-title p {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    figure img {
+        max-width: 500px !important;
+    }
+    .row h5 {
+        margin-top: 15px;
+        padding: 40px;
+        text-align: center;
+        font-size: 19px;
+        color: #0d5c75;
+        font-weight: 500;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .hebida-text p {
+        font-size: 16px;
+    }
+    .habilidadies-area {
+        height: auto;
+        padding-top: 150px;
+        padding-bottom: 250px;
+    }
+    .contact-area {
+        height: auto;
+        padding-top: 100px;
+    }
+    .contact-title h2 {
+        color: #0d5c75;
+        font-size: 32px;
+    }
+    .contact-title p {
+        font-size: 18px;
+    }
+    .hero-text h2 {
+        font-size: 21px;
+        line-height: 36px;
+    }
+    .hero-text {
+        text-align: center;
+        position: relative;
+        padding: 0;
+        border-right: none;
+        float: none;
+        margin-right: 0;
+        padding-right: 0;
+    }
+    .hero-text::before {
+        display: none;
+    }
+    .hero-text::after {
+        display: none;
+    }
+    .hero-text br {
+        display: none;
+    }
+    .single-portfolio {
+        padding: 25px 0;
+        margin: 40px 0px;
+        height: 320px;
+    }
+    .portfolio-area {
+        height: auto;
+        padding: 80px 0;
+    }
+    .single-portfolio p {
+        font-size: 18px;
+    }
+    .contact-title h2 {
+        font-size: 20px;
+    }
+    .contact-title p {
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 26px;
+    }
+    .contact-title br {
+        display: none;
+    }
+    .hebida-text h2 {
+        font-size: 22px;
+        margin-bottom: 35px;
+    }
+    .hebida-text p br {
+        display: none;
+    }
+    .hebida-text {
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .footer-logo img {
+        width: 36px;
+    }
+    .habilidadies-bottom p {
+        font-size: 14px;
+    }
+    .skills-box {
+        text-align: center;
+    }
+    .hero-area {
+        height: 100vh;
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+    .portfolio-area {
+        padding-top: 0;
+    }
+    .logo img {
+        width: 40px;
+    }
+    header {
+        padding: 0;
+    }
+    .mean-container .mean-nav {
+        position: fixed;
+        left: 0;
+    }
+    .mean-container a.meanmenu-reveal {
+        color: #0c1923;
+    }
+    header.sticky {
+        padding: 8px 0;
+    }
+    .mean-container a.meanmenu-reveal span {
+        background: #0d5c75;
+    }
+    .mean-container a.meanmenu-reveal {
+    
+        margin-top: -41px;
+        padding-right: 0;
+    }
+    .hero-text a {
+        font-size: 16px;
+    }
+    .hero-text a:hover {
+        color: #0d5c75;
+    }
+    .gellary-title h2 {
+        font-size: 32px;
+    }
+    .gellary-title p {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    figure img {
+        max-width: 300px !important;
+    }
+    .row h5 {
+        margin-top: 15px;
+        padding: 40px;
+        text-align: center;
+        font-size: 15px;
+        color: #0d5c75;
+        font-weight: 500;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+
+
+}
