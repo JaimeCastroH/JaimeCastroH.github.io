@@ -545,9 +545,11 @@ footer {
 	width: 50%;
 	float: left;
 }
+
 .gellary-box {
 	display: flex;
 }
+
 .gellary-area {
 	padding: 100px 0;
 	position: relative;
